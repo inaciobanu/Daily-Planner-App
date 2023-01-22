@@ -2,11 +2,11 @@
 
 ## Task
 
-Create a simple calendar application that helps a user to save events for each hour of the day by modifying starter code. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
+Hello again, fellow newbie front-end developers! This week's challenge was to create a simple calendar application that helps a user to save events for each hour of the day by modifying starter code. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+I had to use the [Moment.js](https://momentjs.com/) library to work with date and time and make sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
-## Applying What we've learned this week
+## Applying what we've learned this week
 
 Thsi week's activities in preparation for this challenge involved:
 - jQuery - creating, updating, appending HTML elements
@@ -17,7 +17,6 @@ Thsi week's activities in preparation for this challenge involved:
 - jQuery UI widgets, including Dialog, Autocomplete, and Date Picker
 - jQuery interactions (sortable)
 - Using Moment.js to calculate time differences.
-
 
 ## User Story
 
