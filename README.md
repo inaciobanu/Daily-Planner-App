@@ -1,10 +1,23 @@
 # Third-Party APIs: Work Day Scheduler
 
-## Your Task
+## Task
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Create a simple calendar application that helps a user to save events for each hour of the day by modifying starter code. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 
 You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+
+## Applying What we've learned this week
+
+Thsi week's activities in preparation for this challenge involved:
+- jQuery - creating, updating, appending HTML elements
+- Attaching functionality to events + use of the .css() method
+- DOM Traversal using jQuery
+- Event delegation; turning Browser API Elements into jQuery elements
+- Rewriting JavaScript as jQuery (a comparison)
+- jQuery UI widgets, including Dialog, Autocomplete, and Date Picker
+- jQuery interactions (sortable)
+- Using Moment.js to calculate time differences.
+
 
 ## User Story
 
@@ -35,46 +48,6 @@ The following animation demonstrates the application functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
 
 
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-  * Uses a date utility library to work with date and time
-
-### Deployment: 32%
-
-* Application deployed at live URL
-
-* Application loads with no errors
-
-* Application GitHub URL submitted
-
-* GitHub repo contains application code
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate
-
-* Application user interface style is clean and polished
-
-* Application resembles the mock-up functionality provided in the homework instructions
-
-### Repository Quality: 13%
-
-* Repository has a unique name
-
-* Repository follows best practices for file structure and naming conventions
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
 ## Review
 
 You are required to submit the following for review:
@@ -84,4 +57,4 @@ You are required to submit the following for review:
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Readme texts inspired by © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
