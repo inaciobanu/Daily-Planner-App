@@ -51,9 +51,9 @@ The following animation demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+* The URL of the deployed application is [here]().
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* The URL of the GitHub repository, with a unique name and a README describing the project is [here]().
 
 ---
 Readme texts inspired by © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
